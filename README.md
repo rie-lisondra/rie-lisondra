@@ -79,21 +79,8 @@ I'm a **Bachelor of Science in Information Technology (BSIT)** graduate speciali
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rie-lisondra&show_icons=true&theme=rose&hide_border=true&count_private=true" alt="Marjorie's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rie-lisondra&layout=compact&theme=rose&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rie-lisondra&theme=rose&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 - 💼 **LinkedIn:** [linkedin.com/in/lisondramarjoriemae](https://www.linkedin.com/in/lisondramarjoriemae)
-- 📧 **Email:** [Contact me on LinkedIn for email address]
+- 📧 **Email:** [lisondra.marjoriemaeg@gmail.com](mailto:lisondra.marjoriemaeg@gmail.com)
 
 *“Design is not just what it looks like and feels like. Design is how it works.” — Steve Jobs*
